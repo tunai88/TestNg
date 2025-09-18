@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>TestNG</name>
+=======
+	<name>ThirdProject</name>
+>>>>>>> 30abb5dc45713ad683d637fcaeceb6fb604f0d6f
 	<comment></comment>
 	<projects>
 	</projects>
@@ -10,6 +14,13 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
+<<<<<<< HEAD
+your local changes
+=======
+changes from remote branch
+>>>>>>> branch-name
+
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
@@ -19,5 +30,10 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+=======
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> 30abb5dc45713ad683d637fcaeceb6fb604f0d6f
 	</natures>
 </projectDescription>
